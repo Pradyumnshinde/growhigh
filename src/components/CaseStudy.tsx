@@ -10,7 +10,7 @@ const features = [
 
 export default function CaseStudy() {
   return (
-    <section className="py-24 relative z-10 border-t border-white/5 bg-gradient-to-b from-[#030014] to-cyan-900/10">
+    <section id="case-study"className="py-24 relative z-10 border-t border-white/5 bg-gradient-to-b from-[#030014] to-cyan-900/10">
       <div className="container mx-auto px-6">
         <div className="grid lg:grid-cols-2 gap-16 items-center neon-card rounded-3xl p-8 md:p-12 shadow-[0_0_30px_rgba(34,211,238,0.05)] relative overflow-hidden group">
           
