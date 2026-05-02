@@ -1,7 +1,7 @@
 export default function Footer() {
   return (
     <footer className="py-8 border-t border-white/10 relative z-10 text-center md:text-left bg-black/50 backdrop-blur-md">
-      <div className="container mx-auto px-6 flex flex-col md:flex-row justify-between items-center gap-6">
+      <div className="container mx-auto px-6 flex flex-col items-center gap-6">
         <p className="text-[10px] text-slate-500 uppercase tracking-widest font-bold">
           AI Automation for Modern Businesses • ©2026 GrowHigh
         </p>
