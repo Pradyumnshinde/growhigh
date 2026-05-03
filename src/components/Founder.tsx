@@ -16,7 +16,7 @@ export default function Founder() {
             <div className="w-24 h-24 md:w-32 md:h-32 flex-shrink-0 rounded-full border border-zinc-700 p-1">
                <div className="w-full h-full rounded-full overflow-hidden bg-zinc-800">
                 <img 
-                  src="/founder.jpg" 
+                  src="/founder.jpg.png"
                   alt="Founder" 
                   className="w-full h-full object-cover transition-all duration-700 opacity-90"
                 />
