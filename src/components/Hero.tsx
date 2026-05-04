@@ -37,7 +37,7 @@ export default function Hero() {
 
           <div className="flex items-center gap-5 mt-8 md:mt-16 pt-8 border-t border-white/10">
              <div className="w-12 h-12 rounded-full border border-cyan-500/30 flex-shrink-0 overflow-hidden bg-black shadow-[0_0_15px_rgba(34,211,238,0.2)]">
-               <img src="/founder.jpg" alt="Pradyumn" className="w-full h-full object-cover opacity-90 hover:opacity-100 transition-opacity" />
+               <img src="/founder.jpg.png" alt="Pradyumn" className="w-full h-full object-cover opacity-90 hover:opacity-100 transition-opacity" />
              </div>
              <div>
                <p className="text-sm text-slate-400 italic leading-relaxed mb-1">
